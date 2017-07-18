@@ -379,7 +379,7 @@ namespace FairyGUI
 		/// <summary>
 		/// 
 		/// </summary>
-		virtual protected void OnInit()
+		virtual public void OnInit()
 		{
 		}
 
